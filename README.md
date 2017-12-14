@@ -10,11 +10,12 @@ Le dit "texte" correspond à : contributions, code, commentaires dans le code, q
 Toute pull request ne respectant pas ces conventions ne sera pas acceptée.
 
 ### Charte :
-Ce repo a une visée pédagogique et permet de questionner le fonctionnement de printf. Il n'est pas un guide pour coder le projet ft_printf de 42.
-Ce projet a pour objet de fournir des éléments pour la réflexion des étudiants. Il a été réalisé par des étudiants et ne fait pas figure d'autorité dans les corrections de vos projets ft_printf. 
-Ce projet n'est pas sous licence :-p néanmoins nous apprécierons que si citation il y a, correcte envers ces auteurs elle soit. (lien vers le repo Github)
+- Ce repo a une visée pédagogique et permet de questionner le fonctionnement de printf. Il n'est pas un guide pour coder le projet ft_printf de 42.
+- Ce projet a pour objet de fournir des éléments pour la réflexion des étudiants. Il a été réalisé par des étudiants et ne fait pas figure d'autorité dans les corrections de vos projets ft_printf. 
+- Ce projet n'est pas sous licence :-p néanmoins nous apprécierons que si citation il y a, correcte envers ces auteurs elle soit. (lien vers le repo Github)
 
-
+Enjoie.
+Force et Honneur.
 
 
 
