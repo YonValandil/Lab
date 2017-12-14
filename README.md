@@ -1,3 +1,5 @@
+##key words : printf, C, pedagogy, contribution, github
+
 # Lab
 
 ## Bonjour tous ! Bienvenue dans le Lab 42 de printf. 
