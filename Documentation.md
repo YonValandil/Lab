@@ -7,11 +7,12 @@ Le doc de contribution du Lab de Printf est né!
 
 Langue : français, English tolerated 
 
-## **mode d’emploi du tableau:**
-date:sujet:texte
+## **mode d’emploi du repo**
+date:sujet:texte:status
 
-Quand la question est bien formatée : [pull request](https://help.github.com/articles/creating-a-pull-request/) sur le Github. 
-Quand le sujet est résolu : close de la pull request.
+Quand la question est bien formatée : [issue](https://github.com/C00kie-/Lab/issues) sur le Github. Les issues de Github c'est basiquement un tableau qui propose la structure suivante : date:sujet:texte:status. 
+Quand on veut proposer une modification : [pull request](https://help.github.com/articles/creating-a-pull-request/)
+Quand le sujet est résolu : close de l'issue.
 
 Enjoy.
 
