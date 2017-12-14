@@ -14,8 +14,7 @@ Toute pull request ne respectant pas ces conventions ne sera pas acceptée.
 - Ce projet a pour objet de fournir des éléments pour la réflexion des étudiants. Il a été réalisé par des étudiants et ne fait pas figure d'autorité dans les corrections de vos projets ft_printf. 
 - Ce projet n'est pas sous licence :-p néanmoins nous apprécierons que si citation il y a, correcte envers ces auteurs elle soit. (lien vers le repo Github)
 
-Enjoie.
-Force et Honneur.
+Bonne contri!
 
 
 
