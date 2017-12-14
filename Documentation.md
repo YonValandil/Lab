@@ -5,7 +5,7 @@ Hello tous,
 
 Le doc de contribution du Lab de Printf est né! 
 
-Langue : français
+Langue : français, English tolerated 
 
 ## **mode d’emploi du tableau:**
 date:sujet:texte
